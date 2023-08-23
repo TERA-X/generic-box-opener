@@ -7,6 +7,6 @@
         "niceName": "Box",
         "guiName": "Generic Box Opener & Item user"
     },
-    "servers": ["https://raw.githubusercontent.com/KYGAS/generic-box-opener-item-user/master/"],
-    "supportUrl": "https://github.com/KYGAS/generic-box-opener-item-user/issues"
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/generic-box-opener/master/"],
+    "supportUrl": "https://github.com/X0RPR0/generic-box-opener/issues"
 }
