@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "generic-box-opener-item-user",
+    "author": "KYGAS",
+    "description": "Mass-Opens boxes",
+    "options": {
+        "niceName": "Box",
+        "guiName": "Generic Box Opener & Item user"
+    },
+    "servers": ["https://raw.githubusercontent.com/KYGAS/generic-box-opener-item-user/master/"],
+    "supportUrl": "https://github.com/KYGAS/generic-box-opener-item-user/issues"
+}
